@@ -1,0 +1,5 @@
+defer allows you to delay the execution of a function until the surrounding function returns. It’s commonly used for tasks like closing files, unlocking mutexes, or releasing other resources.
+
+This ensures that cleanup actions are performed, even in the presence of errors.
+
+Let’s create a simple program that reads data from a file, and we’ll use defer to ensure the file is properly closed, regardless of any errors that may occur:

@@ -1,0 +1,9 @@
+Use composite literals to create instances of structs instead of constructor functions.
+
+Why Use Composite Literals?
+Composite literals provide several advantages:
+
+Conciseness
+Readability
+Flexibility
+Let’s demonstrate this with a simple example:

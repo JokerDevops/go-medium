@@ -1,0 +1,6 @@
+/*
+
+Utilize goroutines to perform concurrent operations efficiently. Goroutines are lightweight, concurrent threads of execution in Go.
+They enable you to run functions concurrently without the overhead of traditional threads. This allows you to write highly concurrent and efficient programs.
+
+*/

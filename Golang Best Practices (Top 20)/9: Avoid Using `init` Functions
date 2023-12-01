@@ -1,0 +1,5 @@
+Avoid using init functions unless necessary, as they can make code harder to understand and maintain.
+
+A better approach is to move your initialization logic into regular functions that you call explicitly, typically from your main function. This gives you better control, enhances code readability, and simplifies testing.
+
+Here’s a simple Go program that demonstrates avoiding init functions:

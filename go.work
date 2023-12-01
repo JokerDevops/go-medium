@@ -1,0 +1,6 @@
+go 1.21.0
+
+use (
+	"./Golang Best Practices (Top 20)"
+	./AccountService
+)
